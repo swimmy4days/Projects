@@ -1,0 +1,9 @@
+[submodule "brainfuck"]
+	path = brainfuck
+	url = https://github.com/swimmy4days/brainfuck
+[submodule "flask"]
+	path = flask
+	url = https://github.com/swimmy4days/flask
+[submodule "aStar"]
+	path = aStar
+	url = https://github.com/swimmy4days/aStar
