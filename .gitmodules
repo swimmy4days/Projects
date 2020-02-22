@@ -7,6 +7,3 @@
 [submodule "BrainFuck"]
 	path = BrainFuck
 	url = git@github.com:https://github.com/swimmy4days/brainfuck.git
-[submodule "mython"]
-	path = mython
-	url = https://gitlab.com/swimmy4days/mython
