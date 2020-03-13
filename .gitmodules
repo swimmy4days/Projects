@@ -6,7 +6,7 @@
 	url = https://github.com/swimmy4days/aStar
 [submodule "BrainFuck"]
 	path = BrainFuck
-	url = git@github.com:https://github.com/swimmy4days/brainfuck.git
+	url = https://github.com/swimmy4days/brainfuck/
 [submodule "Python Interpreter"]
 	path = Python Interpreter
 	url = https://github.com/swimmy4days/Python-Interpreter
